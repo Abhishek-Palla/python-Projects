@@ -27,7 +27,7 @@ for i in range(len(birthdays_dict)):
 
 
 my_email = "pallaa15@gmail.com"
-password = "omhf rnxe qwsx vumd"
+password = "GET YOUR OWN PASSWORD"
 
 
 connection =smtplib.SMTP("smtp.gmail.com", 587)
