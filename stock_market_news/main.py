@@ -75,7 +75,7 @@ if abs(diff_percent) > 1:
         message = client.messages.create(
             body=article,
             from_="+18447192354",
-            to="+19409770736",
+            to="+1type any number",
         )
 
 
