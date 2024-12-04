@@ -11,8 +11,8 @@ NEWS_API_KEY ='c283fa7106144d89923d23bdd5d4d9ea'
 STOCK_ENDPOINT = "https://www.alphavantage.co/query"
 NEWS_ENDPOINT = "https://newsapi.org/v2/everything"
 daily = "TIME_SERIES_DAILY"
-account_sid ="ACfdea6e443f848569cffb5c2b401dd55d"
-auth_token = "faf5e2dd505913a03fd246280ca958c1"
+account_sid ="GET YOUR DETAILS"
+auth_token = "GET YOUR DETAILS"
 
 
 
